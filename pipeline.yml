@@ -1,3 +1,5 @@
+lint → validate → deploy
+
 name: Portfolio Pipeline
 
 on:
